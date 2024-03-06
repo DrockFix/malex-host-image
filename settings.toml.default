@@ -1,0 +1,8 @@
+[tg]
+token = "token" # Укажите обязательно токен бота в телеграм
+[img]
+path_image = "./Фотоотчеты"
+[yandex]
+token = 'token'
+
+
